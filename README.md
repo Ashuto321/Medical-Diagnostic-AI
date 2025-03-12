@@ -11,15 +11,10 @@ Medical-Diagnostic-AI is an advanced AI-powered tool that helps diagnose medical
 🛠️ Technologies Used
 
 Python 🐍
-
 Streamlit 🎨
-
 TensorFlow / PyTorch 🧠
-
 Gemini API 🔗
-
 OpenCV 📷
-
 NumPy & Pandas 📊
 
 🚀 Installation & Setup
