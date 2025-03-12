@@ -22,32 +22,19 @@ NumPy & Pandas 📊
 Prerequisites
 
 Make sure you have Python 3.8+ installed on your system.
-
 Steps to Install & Run:
-
 1️⃣ Clone the repository:
-
 git clone https://github.com/your-username/Medical-Diagnostic-AI.git
 cd Medical-Diagnostic-AI
-
 2️⃣ Install dependencies:
-
 pip install -r requirements.txt
-
 3️⃣ Run the application:
-
 streamlit run app.py
-
 🏥 How to Use
-
 Upload a Medical Image - Select an image for diagnosis.
-
 Click Predict - AI processes the image and provides results.
-
 Review the Diagnosis - Get insights and possible conditions.
-
 Consult a Doctor - Always verify results with a medical professional. 👨‍⚕️👩‍⚕️
-
 🤝 Contributing
 
 We welcome contributions! 
