@@ -35,5 +35,4 @@ Click Predict - AI processes the image and provides results.
 Review the Diagnosis - Get insights and possible conditions.
 Consult a Doctor - Always verify results with a medical professional. 👨‍⚕️👩‍⚕️
 🤝 Contributing
-
 We welcome contributions! 
