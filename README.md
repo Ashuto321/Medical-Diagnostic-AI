@@ -20,7 +20,6 @@ NumPy & Pandas 📊
 🚀 Installation & Setup
 
 Prerequisites
-
 Make sure you have Python 3.8+ installed on your system.
 Steps to Install & Run:
 1️⃣ Clone the repository:
