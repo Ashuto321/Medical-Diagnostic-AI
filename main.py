@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 
 #configure gen ai with api key
-genai.configure(api_key="AIzaSyC8rlzHGsVfVcCKOAWNYjzJtAFmpj6rnO0")
+genai.configure(api_key="AIzaSyAXO3tgtRctgIMLauVNhl0yd7Jcmq1cFFA")
 
 #prompt
 system_prompt = """
