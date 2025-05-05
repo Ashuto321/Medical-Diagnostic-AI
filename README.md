@@ -1,6 +1,5 @@
 🏥 Medical-Diagnostic-AI
 
-
 Try My AI Doctor: https://medical-diagnostic-ai-ashutosh-pandey.streamlit.app/
 
 📌 Project Overview
