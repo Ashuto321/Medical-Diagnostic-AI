@@ -104,7 +104,6 @@ col1, col2, col3 = st.columns([1, 2, 1])
 
 with col2:
     # Display both images with the same width
-    st.image("edureka.png", width=200)
     st.image("medical.png", width=200)
 
 
@@ -112,7 +111,7 @@ with col2:
 #set the titile
 
 
-st.title("🩺🔬 Edureka Diagnostic Helper 🧑‍⚕️✨")
+st.title("🩺🔬 Your Diagnostic Helper 🧑‍⚕️✨")
 
 
 
@@ -148,3 +147,4 @@ if submit_button:
  
 
        
+
