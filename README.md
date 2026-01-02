@@ -1,7 +1,6 @@
 🏥 Medical-Diagnostic-AI 
 
-![image alt](https://github.com/Ashuto321/Medical-Diagnostic-AI/blob/76945fe6887ed165fdafd46ed63d6830080c1c90/Medical_Image_Analyzer.png)
- 
+![image alt] https://github.com/Ashuto321/Medical-Diagnostic-AI/blob/e679a87474bbefaf88fef5e9f33dbfa4343a6278/your%20diagnostic%20helper.png
 Try My AI Doctor: https://medical-diagnostic-ai-1.onrender.com/
 
 📌 Project Overview
