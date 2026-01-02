@@ -1,5 +1,6 @@
 🏥 Medical-Diagnostic-AI 
 
+![image alt](https://github.com/Ashuto321/Medical-Diagnostic-AI/blob/8df029e17745188c1c707204d93241d683b59a35/your%20diagnostic%20helper.png)
 
 Try My AI Doctor: https://medical-diagnostic-ai-2.onrender.com/
 
